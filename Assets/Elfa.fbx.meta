@@ -1,0 +1,167 @@
+fileFormatVersion: 2
+guid: 17d0cc9531f8d6e4292a9c88d8e656da
+timeCreated: 1477953472
+licenseType: Free
+ModelImporter:
+  serializedVersion: 19
+  fileIDToRecycleName:
+    100000: Avental
+    100002: Boca
+    100004: Bota e Gola
+    100006: Cabelo
+    100008: Cachecol
+    100010: Cadarco
+    100012: Camera
+    100014: Chapeu
+    100016: Cinto
+    100018: //RootNode
+    100020: Jooooj
+    100022: Lamp
+    100024: Lenco
+    100026: Luva
+    100028: Luvas
+    100030: Olho Azul
+    100032: Olho Branco
+    100034: Olho Preto
+    100036: Pele
+    100038: Preto
+    100040: Vestido
+    400000: Avental
+    400002: Boca
+    400004: Bota e Gola
+    400006: Cabelo
+    400008: Cachecol
+    400010: Cadarco
+    400012: Camera
+    400014: Chapeu
+    400016: Cinto
+    400018: //RootNode
+    400020: Jooooj
+    400022: Lamp
+    400024: Lenco
+    400026: Luva
+    400028: Luvas
+    400030: Olho Azul
+    400032: Olho Branco
+    400034: Olho Preto
+    400036: Pele
+    400038: Preto
+    400040: Vestido
+    2300000: Avental
+    2300002: Boca
+    2300004: Bota e Gola
+    2300006: Cabelo
+    2300008: Cachecol
+    2300010: Cadarco
+    2300012: Chapeu
+    2300014: Cinto
+    2300016: Jooooj
+    2300018: Lenco
+    2300020: Luva
+    2300022: Luvas
+    2300024: Olho Azul
+    2300026: Olho Branco
+    2300028: Olho Preto
+    2300030: Pele
+    2300032: Preto
+    2300034: Vestido
+    3300000: Avental
+    3300002: Boca
+    3300004: Bota e Gola
+    3300006: Cabelo
+    3300008: Cachecol
+    3300010: Cadarco
+    3300012: Chapeu
+    3300014: Cinto
+    3300016: Jooooj
+    3300018: Lenco
+    3300020: Luva
+    3300022: Luvas
+    3300024: Olho Azul
+    3300026: Olho Branco
+    3300028: Olho Preto
+    3300030: Pele
+    3300032: Preto
+    3300034: Vestido
+    4300000: Cachecol
+    4300002: Olho Preto
+    4300004: Olho Azul
+    4300006: Olho Branco
+    4300008: Boca
+    4300010: Cadarco
+    4300012: Lenco
+    4300014: Avental
+    4300016: Cabelo
+    4300018: Bota e Gola
+    4300020: Preto
+    4300022: Cinto
+    4300024: Luva
+    4300026: Vestido
+    4300028: Luvas
+    4300030: Chapeu
+    4300032: Jooooj
+    4300034: Pele
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleRotations: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

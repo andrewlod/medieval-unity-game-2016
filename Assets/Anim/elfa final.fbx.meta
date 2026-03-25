@@ -1,0 +1,561 @@
+fileFormatVersion: 2
+guid: 1168ace28c58f734c8542136299d25f2
+timeCreated: 1479922741
+licenseType: Free
+ModelImporter:
+  serializedVersion: 19
+  fileIDToRecycleName:
+    100000: Armature
+    100002: Avental
+    100004: Boca
+    100006: Bone
+    100008: Bone.001
+    100010: Bone.002
+    100012: Bone.002_L.001
+    100014: Bone.002_L.001_end
+    100016: Bone.002_R.001
+    100018: Bone.002_R.001_end
+    100020: Bone_L
+    100022: Bone_L.001
+    100024: Bone_L.002
+    100026: Bone_L.003
+    100028: Bone_L.003_end
+    100030: Bone_L.004
+    100032: Bone_L.004_end
+    100034: Bone_L.005
+    100036: Bone_L.006
+    100038: Bone_L.006_end
+    100040: Bone_R
+    100042: Bone_R.001
+    100044: Bone_R.002
+    100046: Bone_R.003
+    100048: Bone_R.003_end
+    100050: Bone_R.004
+    100052: Bone_R.004_end
+    100054: Bone_R.005
+    100056: Bone_R.006
+    100058: Bone_R.006_end
+    100060: Bota e Gola
+    100062: Cabelo
+    100064: Cachecol
+    100066: Cadarco
+    100068: Chapeu
+    100070: Cinto
+    100072: //RootNode
+    100074: Lenco
+    100076: Luva
+    100078: Luvas
+    100080: Olho Branco
+    100082: Olho Cor
+    100084: Olho Preto
+    100086: Pele
+    100088: Preto
+    100090: Vestido
+    400000: Armature
+    400002: Avental
+    400004: Boca
+    400006: Bone
+    400008: Bone.001
+    400010: Bone.002
+    400012: Bone.002_L.001
+    400014: Bone.002_L.001_end
+    400016: Bone.002_R.001
+    400018: Bone.002_R.001_end
+    400020: Bone_L
+    400022: Bone_L.001
+    400024: Bone_L.002
+    400026: Bone_L.003
+    400028: Bone_L.003_end
+    400030: Bone_L.004
+    400032: Bone_L.004_end
+    400034: Bone_L.005
+    400036: Bone_L.006
+    400038: Bone_L.006_end
+    400040: Bone_R
+    400042: Bone_R.001
+    400044: Bone_R.002
+    400046: Bone_R.003
+    400048: Bone_R.003_end
+    400050: Bone_R.004
+    400052: Bone_R.004_end
+    400054: Bone_R.005
+    400056: Bone_R.006
+    400058: Bone_R.006_end
+    400060: Bota e Gola
+    400062: Cabelo
+    400064: Cachecol
+    400066: Cadarco
+    400068: Chapeu
+    400070: Cinto
+    400072: //RootNode
+    400074: Lenco
+    400076: Luva
+    400078: Luvas
+    400080: Olho Branco
+    400082: Olho Cor
+    400084: Olho Preto
+    400086: Pele
+    400088: Preto
+    400090: Vestido
+    4300000: Cabelo
+    4300002: Bota e Gola
+    4300004: Vestido
+    4300006: Preto
+    4300008: Olho Preto
+    4300010: Olho Cor
+    4300012: Olho Branco
+    4300014: Luvas
+    4300016: Luva
+    4300018: Lenco
+    4300020: Cinto
+    4300022: Chapeu
+    4300024: Cadarco
+    4300026: Cachecol
+    4300028: Boca
+    4300030: Avental
+    4300032: Pele
+    7400000: Armature|Action
+    7400002: Armature|Andando
+    7400004: Armature|Parado
+    9500000: //RootNode
+    13700000: Avental
+    13700002: Boca
+    13700004: Bota e Gola
+    13700006: Cabelo
+    13700008: Cachecol
+    13700010: Cadarco
+    13700012: Chapeu
+    13700014: Cinto
+    13700016: Lenco
+    13700018: Luva
+    13700020: Luvas
+    13700022: Olho Branco
+    13700024: Olho Cor
+    13700026: Olho Preto
+    13700028: Pele
+    13700030: Preto
+    13700032: Vestido
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleRotations: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations:
+    - serializedVersion: 16
+      name: Armature|Action
+      takeName: Armature|Action
+      firstFrame: 0
+      lastFrame: 1
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 1
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: Armature
+        weight: 1
+      - path: Armature/Bone
+        weight: 1
+      - path: Armature/Bone/Bone.001
+        weight: 1
+      - path: Armature/Bone/Bone.001/Bone.002
+        weight: 1
+      - path: Armature/Bone/Bone.001/Bone.002/Bone.002_L.001
+        weight: 1
+      - path: Armature/Bone/Bone.001/Bone.002/Bone.002_L.001/Bone.002_L.001_end
+        weight: 1
+      - path: Armature/Bone/Bone.001/Bone.002/Bone.002_R.001
+        weight: 1
+      - path: Armature/Bone/Bone.001/Bone.002/Bone.002_R.001/Bone.002_R.001_end
+        weight: 1
+      - path: Armature/Bone/Bone_L.001
+        weight: 1
+      - path: Armature/Bone/Bone_L.001/Bone_L.002
+        weight: 1
+      - path: Armature/Bone/Bone_L.001/Bone_L.002/Bone_L.003
+        weight: 1
+      - path: Armature/Bone/Bone_L.001/Bone_L.002/Bone_L.003/Bone_L.003_end
+        weight: 1
+      - path: Armature/Bone/Bone_L.001/Bone_L.002/Bone_L.004
+        weight: 1
+      - path: Armature/Bone/Bone_L.001/Bone_L.002/Bone_L.004/Bone_L.004_end
+        weight: 1
+      - path: Armature/Bone/Bone_R.001
+        weight: 1
+      - path: Armature/Bone/Bone_R.001/Bone_R.002
+        weight: 1
+      - path: Armature/Bone/Bone_R.001/Bone_R.002/Bone_R.003
+        weight: 1
+      - path: Armature/Bone/Bone_R.001/Bone_R.002/Bone_R.003/Bone_R.003_end
+        weight: 1
+      - path: Armature/Bone/Bone_R.001/Bone_R.002/Bone_R.004
+        weight: 1
+      - path: Armature/Bone/Bone_R.001/Bone_R.002/Bone_R.004/Bone_R.004_end
+        weight: 1
+      - path: Armature/Bone_L
+        weight: 1
+      - path: Armature/Bone_L/Bone_L.005
+        weight: 1
+      - path: Armature/Bone_L/Bone_L.005/Bone_L.006
+        weight: 1
+      - path: Armature/Bone_L/Bone_L.005/Bone_L.006/Bone_L.006_end
+        weight: 1
+      - path: Armature/Bone_R
+        weight: 1
+      - path: Armature/Bone_R/Bone_R.005
+        weight: 1
+      - path: Armature/Bone_R/Bone_R.005/Bone_R.006
+        weight: 1
+      - path: Armature/Bone_R/Bone_R.005/Bone_R.006/Bone_R.006_end
+        weight: 1
+      - path: Avental
+        weight: 1
+      - path: Boca
+        weight: 1
+      - path: Bota e Gola
+        weight: 1
+      - path: Cabelo
+        weight: 1
+      - path: Cachecol
+        weight: 1
+      - path: Cadarco
+        weight: 1
+      - path: Chapeu
+        weight: 1
+      - path: Cinto
+        weight: 1
+      - path: Lenco
+        weight: 1
+      - path: Luva
+        weight: 1
+      - path: Luvas
+        weight: 1
+      - path: Olho Branco
+        weight: 1
+      - path: Olho Cor
+        weight: 1
+      - path: Olho Preto
+        weight: 1
+      - path: Pele
+        weight: 1
+      - path: Preto
+        weight: 1
+      - path: Vestido
+        weight: 1
+      maskType: 0
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: Armature|Andando
+      takeName: Armature|Andando
+      firstFrame: 0
+      lastFrame: 100
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 1
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: Armature
+        weight: 1
+      - path: Armature/Bone
+        weight: 1
+      - path: Armature/Bone/Bone.001
+        weight: 1
+      - path: Armature/Bone/Bone.001/Bone.002
+        weight: 1
+      - path: Armature/Bone/Bone.001/Bone.002/Bone.002_L.001
+        weight: 1
+      - path: Armature/Bone/Bone.001/Bone.002/Bone.002_L.001/Bone.002_L.001_end
+        weight: 1
+      - path: Armature/Bone/Bone.001/Bone.002/Bone.002_R.001
+        weight: 1
+      - path: Armature/Bone/Bone.001/Bone.002/Bone.002_R.001/Bone.002_R.001_end
+        weight: 1
+      - path: Armature/Bone/Bone_L.001
+        weight: 1
+      - path: Armature/Bone/Bone_L.001/Bone_L.002
+        weight: 1
+      - path: Armature/Bone/Bone_L.001/Bone_L.002/Bone_L.003
+        weight: 1
+      - path: Armature/Bone/Bone_L.001/Bone_L.002/Bone_L.003/Bone_L.003_end
+        weight: 1
+      - path: Armature/Bone/Bone_L.001/Bone_L.002/Bone_L.004
+        weight: 1
+      - path: Armature/Bone/Bone_L.001/Bone_L.002/Bone_L.004/Bone_L.004_end
+        weight: 1
+      - path: Armature/Bone/Bone_R.001
+        weight: 1
+      - path: Armature/Bone/Bone_R.001/Bone_R.002
+        weight: 1
+      - path: Armature/Bone/Bone_R.001/Bone_R.002/Bone_R.003
+        weight: 1
+      - path: Armature/Bone/Bone_R.001/Bone_R.002/Bone_R.003/Bone_R.003_end
+        weight: 1
+      - path: Armature/Bone/Bone_R.001/Bone_R.002/Bone_R.004
+        weight: 1
+      - path: Armature/Bone/Bone_R.001/Bone_R.002/Bone_R.004/Bone_R.004_end
+        weight: 1
+      - path: Armature/Bone_L
+        weight: 1
+      - path: Armature/Bone_L/Bone_L.005
+        weight: 1
+      - path: Armature/Bone_L/Bone_L.005/Bone_L.006
+        weight: 1
+      - path: Armature/Bone_L/Bone_L.005/Bone_L.006/Bone_L.006_end
+        weight: 1
+      - path: Armature/Bone_R
+        weight: 1
+      - path: Armature/Bone_R/Bone_R.005
+        weight: 1
+      - path: Armature/Bone_R/Bone_R.005/Bone_R.006
+        weight: 1
+      - path: Armature/Bone_R/Bone_R.005/Bone_R.006/Bone_R.006_end
+        weight: 1
+      - path: Avental
+        weight: 1
+      - path: Boca
+        weight: 1
+      - path: Bota e Gola
+        weight: 1
+      - path: Cabelo
+        weight: 1
+      - path: Cachecol
+        weight: 1
+      - path: Cadarco
+        weight: 1
+      - path: Chapeu
+        weight: 1
+      - path: Cinto
+        weight: 1
+      - path: Lenco
+        weight: 1
+      - path: Luva
+        weight: 1
+      - path: Luvas
+        weight: 1
+      - path: Olho Branco
+        weight: 1
+      - path: Olho Cor
+        weight: 1
+      - path: Olho Preto
+        weight: 1
+      - path: Pele
+        weight: 1
+      - path: Preto
+        weight: 1
+      - path: Vestido
+        weight: 1
+      maskType: 0
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: Armature|Parado
+      takeName: Armature|Parado
+      firstFrame: 0
+      lastFrame: 100
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 1
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: Armature
+        weight: 1
+      - path: Armature/Bone
+        weight: 1
+      - path: Armature/Bone/Bone.001
+        weight: 1
+      - path: Armature/Bone/Bone.001/Bone.002
+        weight: 1
+      - path: Armature/Bone/Bone.001/Bone.002/Bone.002_L.001
+        weight: 1
+      - path: Armature/Bone/Bone.001/Bone.002/Bone.002_L.001/Bone.002_L.001_end
+        weight: 1
+      - path: Armature/Bone/Bone.001/Bone.002/Bone.002_R.001
+        weight: 1
+      - path: Armature/Bone/Bone.001/Bone.002/Bone.002_R.001/Bone.002_R.001_end
+        weight: 1
+      - path: Armature/Bone/Bone_L.001
+        weight: 1
+      - path: Armature/Bone/Bone_L.001/Bone_L.002
+        weight: 1
+      - path: Armature/Bone/Bone_L.001/Bone_L.002/Bone_L.003
+        weight: 1
+      - path: Armature/Bone/Bone_L.001/Bone_L.002/Bone_L.003/Bone_L.003_end
+        weight: 1
+      - path: Armature/Bone/Bone_L.001/Bone_L.002/Bone_L.004
+        weight: 1
+      - path: Armature/Bone/Bone_L.001/Bone_L.002/Bone_L.004/Bone_L.004_end
+        weight: 1
+      - path: Armature/Bone/Bone_R.001
+        weight: 1
+      - path: Armature/Bone/Bone_R.001/Bone_R.002
+        weight: 1
+      - path: Armature/Bone/Bone_R.001/Bone_R.002/Bone_R.003
+        weight: 1
+      - path: Armature/Bone/Bone_R.001/Bone_R.002/Bone_R.003/Bone_R.003_end
+        weight: 1
+      - path: Armature/Bone/Bone_R.001/Bone_R.002/Bone_R.004
+        weight: 1
+      - path: Armature/Bone/Bone_R.001/Bone_R.002/Bone_R.004/Bone_R.004_end
+        weight: 1
+      - path: Armature/Bone_L
+        weight: 1
+      - path: Armature/Bone_L/Bone_L.005
+        weight: 1
+      - path: Armature/Bone_L/Bone_L.005/Bone_L.006
+        weight: 1
+      - path: Armature/Bone_L/Bone_L.005/Bone_L.006/Bone_L.006_end
+        weight: 1
+      - path: Armature/Bone_R
+        weight: 1
+      - path: Armature/Bone_R/Bone_R.005
+        weight: 1
+      - path: Armature/Bone_R/Bone_R.005/Bone_R.006
+        weight: 1
+      - path: Armature/Bone_R/Bone_R.005/Bone_R.006/Bone_R.006_end
+        weight: 1
+      - path: Avental
+        weight: 1
+      - path: Boca
+        weight: 1
+      - path: Bota e Gola
+        weight: 1
+      - path: Cabelo
+        weight: 1
+      - path: Cachecol
+        weight: 1
+      - path: Cadarco
+        weight: 1
+      - path: Chapeu
+        weight: 1
+      - path: Cinto
+        weight: 1
+      - path: Lenco
+        weight: 1
+      - path: Luva
+        weight: 1
+      - path: Luvas
+        weight: 1
+      - path: Olho Branco
+        weight: 1
+      - path: Olho Cor
+        weight: 1
+      - path: Olho Preto
+        weight: 1
+      - path: Pele
+        weight: 1
+      - path: Preto
+        weight: 1
+      - path: Vestido
+        weight: 1
+      maskType: 0
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
